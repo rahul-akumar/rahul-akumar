@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Hey I'm Rahul
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Rahul;I+break+things+on+the+web)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahul-akumar.rahul-akumar&rstyle=plastic&left_text=Profile%20Views%20:" />
