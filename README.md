@@ -5,7 +5,7 @@
 </div>
 
 ## About
-Profession product designer with 21 years of experience trying to break the internet, and build stuff that doesn’t crash.
+Professional product designer with 21 years of experience trying to make and break things on the internet.
 
 ## My Progress
 
