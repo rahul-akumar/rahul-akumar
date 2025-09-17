@@ -1,8 +1,6 @@
 <!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Rahul%20Kumar&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
-</div>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Rahul;I+break+and+make+things+on+the+web)](https://git.io/typing-svg)
 
