@@ -11,7 +11,7 @@ Professional product designer with 21 years of experience trying to make and bre
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-akumar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="150" alt="languages graph" />
-   <img src="https://streak-stats.demolab.com?user=rahul-akumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=rahul-akumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-akumar&show_icons=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
 </div>
 
