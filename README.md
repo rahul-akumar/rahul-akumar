@@ -5,7 +5,14 @@
 </div>
 
 ## About
-Professional product designer with 21 years of experience trying to make and break things on the internet.
+
+- 🎨 Designer who codes, coder who designs  
+- 🛠 Building design systems, SaaS, automation workflows, AI tools & playful websites  
+- ⚡ Breaking things (intentionally) to learn how to build them better
+- 🏢 10+ years of building enterpirse softwares
+- 🌍 6+ years working remote across different teams & time zones
+- 💾 Practicing the craft of design since 2004
+
 
 ## My Progress
 
