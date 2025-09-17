@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p>
-  <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+  <img align="centre" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Rahul;I+break+and+make+things+on+the+web)](https://git.io/typing-svg)
