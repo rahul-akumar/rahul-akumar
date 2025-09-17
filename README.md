@@ -1,8 +1,7 @@
 <!-- HEADER -->
-
-<p>
-  <img align="centre" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Rahul;I+break+and+make+things+on+the+web)](https://git.io/typing-svg)
 
