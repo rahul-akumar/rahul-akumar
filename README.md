@@ -4,11 +4,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahul-akumar.rahul-akumar&rstyle=plastic&left_text=Profile%20Views%20:" />
 </div>
 
----
-
 ## About
 Profession product designer with 21 years of experience trying to break the internet, and build stuff that doesn’t crash.
----
 
 ## My Progress
 
@@ -17,7 +14,5 @@ Profession product designer with 21 years of experience trying to break the inte
    <img src="https://streak-stats.demolab.com?user=rahul-akumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-akumar&show_icons=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
 </div>
-
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Designing.+Learning.)](https://git.io/typing-svg)
